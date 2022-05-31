@@ -2,7 +2,7 @@
 
 The project has select input, where the user can select mode (easy, normal, hard) and press the Start button. Field size based on selected mode on the previous step.
 
-#
+
 
 The user can hover over the cell, and it becomes blue, if the user hovers again over the blue cell it becomes white. On the right side of the screen shows hovers squares.
 
